@@ -1,0 +1,44 @@
+import java.util.Scanner;
+
+public class Main {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+//		My version
+//		Scanner scanner = new Scanner(System.in);
+//		
+//		int number = 0;
+//		int minimum = 0;
+//		int maximum = 0;
+//		
+//		while(true) {
+//			System.out.println("Enter a number: ");
+//			boolean isAnInt = scanner.hasNextInt();
+//			if(isAnInt) {
+//				number = scanner.nextInt();
+//				if(number < minimum) {
+//					minimum = number;
+//				} else if(number > maximum) {
+//					maximum = number;
+//				}
+//			} else {
+//				System.out.println("The minimum number entered is " + minimum + " and the maximum number entered is " + maximum + ".");
+//				break;
+//			}
+//			scanner.nextLine(); // handle end of line enter key
+//		}
+//		scanner.close();
+		
+		// instructor's version
+		
+		Scanner scanner = new Scanner(System.in);
+		
+		int min = 0;
+		int max = 0;
+		
+		
+		scanner.close();
+	}
+
+}

@@ -1,0 +1,38 @@
+buildscript {
+    repositories {
+        mavenLocal()
+    }
+    dependencies {
+        classpath 'org.jsonschema2pojo:jsonschema2pojo-gradle-plugin:latest.integration'
+    }
+}
+
+plugins {
+	id 'org.springframework.boot' version '2.6.6'
+	id 'io.spring.dependency-management' version '1.0.11.RELEASE'
+	id 'java'
+}
+
+group = 'com.example'
+version = '0.0.1-SNAPSHOT'
+sourceCompatibility = '1.8'
+
+repositories {
+	mavenCentral()
+}
+
+dependencies {
+	implementation 'org.springframework.boot:spring-boot-starter'
+	testImplementation 'org.springframework.boot:spring-boot-starter-test'
+	// https://mvnrepository.com/artifact/org.jsonschema2pojo/jsonschema2pojo-core
+	implementation group: 'org.jsonschema2pojo', name: 'jsonschema2pojo-core', version: '1.1.1'
+	// https://mvnrepository.com/artifact/com.sun.codemodel/codemodel
+	implementation group: 'com.sun.codemodel', name: 'codemodel', version: '2.4'
+	// https://mvnrepository.com/artifact/com.helger/jcodemodel
+	implementation group: 'com.helger', name: 'jcodemodel', version: '3.0.0'
+	
+}
+
+tasks.named('test') {
+	useJUnitPlatform()
+}

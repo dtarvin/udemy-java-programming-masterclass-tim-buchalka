@@ -1,0 +1,8 @@
+import java.util.ArrayList;
+
+public class MobilePhone {
+	
+	private static ArrayList<Contact> contactList = new ArrayList<Contact>();
+	
+	
+}

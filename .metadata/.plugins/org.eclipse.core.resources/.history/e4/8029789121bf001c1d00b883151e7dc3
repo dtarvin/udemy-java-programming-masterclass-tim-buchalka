@@ -1,0 +1,4 @@
+
+public interface PackageStrategy {
+	public void processPackage(String pkg);
+}

@@ -1,0 +1,11 @@
+
+public class OperatorPromotion {
+
+	public static void main(String[] args) {
+		StringBuilder sb = new StringBuilder("harness recall");
+		System.out.println(sb);
+		sb.replace(3, 5, "binger");
+		System.out.println(sb);
+	}
+
+}

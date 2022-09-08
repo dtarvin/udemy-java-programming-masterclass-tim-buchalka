@@ -1,0 +1,1973 @@
+{
+    "Policy": {
+        "AdpPrefill": "N",
+        "BinderFlag": "N",
+        "BlacklstChrPattrn": "[<>\"={}`^!]",
+        "BookingDate": "2022-03-31 08:42:46.0",
+        "BookingStatus": "COMPLETE",
+        "BookingUser": "pmiccsr@physiciansmutual.com",
+        "CanWaivePremium": "N",
+        "CompanyCode": "PM",
+        "CompanyName": "Physicians Mutual Insurance Company",
+        "CompositeRating": "N",
+        "ControlDate": "2022-03-30 00:00:00.0",
+        "CustomPackVersion": "2203.1.0",
+        "CustomPolicyNumber": "0",
+        "CustomRevisionNumber": "0",
+        "DisplayPolicyNumber": "PMPH000000345",
+        "EffectiveDate": "2022-03-30 00:00:00.0",
+        "EntityReference": "PPMPH0000003450000",
+        "EntityType": "POLICY",
+        "ExpirationDate": "2022-04-30 00:00:00.0",
+        "IsComReduct": "N",
+        "IsCovManuallyRated": "N",
+        "IsRebind": "N",
+        "IsRewrite": "N",
+        "IsSubjectToAudit": "N",
+        "MasterQuote": "N",
+        "MicVersion": "2015.76.0",
+        "NextGenAudited": "N",
+        "NoConflictOnRollfwd": "N",
+        "OldEntityReference": "QPMPH0000012670000",
+        "OldEntityType": "QUOTE",
+        "OnDemandReorder": "N",
+        "OoseVoidIndicator": "N",
+        "OrdCarrReport": "N",
+        "OrgEntityReference": "PPMPH0000003450000",
+        "PaperType": "A",
+        "PendingCanInd": "0",
+        "PolicyNumber": "345",
+        "PolicyQuoteIndicator": "P",
+        "PolTerm": "Monthly",
+        "PolTermCode": "1",
+        "PremiumRounding": "2",
+        "PrimaryRiskState": "NE",
+        "ProductCode": "PH",
+        "ProductName": "Pet Insurance",
+        "ProductVersion": "2203.1.0",
+        "RateClicked": "N",
+        "RatingMode": "FULL",
+        "Renewal": "N",
+        "RenewalCounter": "0",
+        "RenewalCounter2": "0",
+        "RenewalIndicator": "N",
+        "RetainBtmFltEndr": "N",
+        "RevisionNumber": "0",
+        "RiskState": "NE",
+        "RiskStateStatCode": "26",
+        "SourceSystem": "MIC",
+        "TotalAnnualColFee": "0",
+        "TotalAnnualFee": "37.5",
+        "TotalAnnualSurcharge": "0",
+        "TotalAnnualTax": "0",
+        "TotalFtermColFee": "0",
+        "TotalFtermFee": "37.5",
+        "TotalFtermSurcharge": "0",
+        "TotalFtermTaxes": "0",
+        "TotalSurcharge": "37.5",
+        "TotalSurchargeFterm": "37.5",
+        "TotalTransFee": "37.5",
+        "TotalTransSurcharge": "0",
+        "TransactionAction": "redoPolicy",
+        "TransactionCode": "05",
+        "TransactionFactor": "0.0849315068",
+        "TransAccountingDate": "2022-03-31 00:00:00.0",
+        "TransAccountingMonth": "3",
+        "TransAccountingYear": "2022",
+        "TransDisplayName": "Convert Quote",
+        "TransEffectiveDate": "2022-03-30 00:00:00.0",
+        "UnderwriterCode": "001",
+        "UnderwriterName": "Underwriter-1",
+        "WaivedPremium": "0",
+        "WaivePremium": "N",
+        "PremiumAttributes": {
+            "AnnualPremium": "686.35",
+            "BalanceToMinimum": "0",
+            "CommissionablePremium": "58.29",
+            "FullTermPremium": "58.29",
+            "TransactionPremium": "58.29",
+            "TransPremNotSubToAud": "58.29",
+            "WrittenPremium": "58.29"
+        },
+        "Insured": [
+            {
+                "BusinessName": "Drake  Nielsen",
+                "CopyCustomerDetails": "N",
+                "CreateShellAccount": "N",
+                "CustomerName": "Dan  Nielsen",
+                "CAddInsured": "Y",
+                "CEmailNew": "dan.nielsen@pmic.com",
+                "CFirstName": "Dan",
+                "CLastName": "Nielsen",
+                "CPhone": "(402) 616 - 2542",
+                "EntityReference": "PPMPH0000003450000",
+                "EntityType": "POLICY",
+                "FeinPhoneRequired": "FEIN or Phone are a required field. Please enter one or both fields above.",
+                "FirstName": "Drake",
+                "IndRiskSituation": "N",
+                "InsuredSearchComplete": "N",
+                "InsDob": "1975-01-01 00:00:00.0",
+                "IsDeregulated": "N",
+                "MasterCustomerGid": "13131313drn",
+                "MasterRecordGid": "3870",
+                "NameType": "Personal",
+                "NameTypeStatCode": "2",
+                "OrderCreditScore": "N",
+                "PolicyInsured": "1974",
+                "QuoteNumber": "0",
+                "RcFailureCancel": "N",
+                "RetrieveQuoteNumber": "N",
+                "StatusUpdMisPolicies": "SUCCESS",
+                "Surname": "Nielsen",
+                "WrapUpSponsorship": "Male",
+                "Address": [
+                    {
+                        "AddressType": "Business",
+                        "City": "Omaha",
+                        "Country": "United States",
+                        "CountryCode": "USA",
+                        "County": "Douglas",
+                        "EntityReference": "PPMPH0000003450000",
+                        "EntityType": "POLICY",
+                        "InsuredAddress": "5013",
+                        "IsAuditExpoProrated": "N",
+                        "Line1": "2600 Dodge St",
+                        "MasterRecordGid": "5389",
+                        "StateCode": "NE",
+                        "StateDesc": "Nebraska",
+                        "SysExposureIsUnits": "N",
+                        "ZipCode": "68131"
+                    }
+                ],
+                "Contact": [
+                    {
+                        "EntityReference": "PPMPH0000003450000",
+                        "EntityType": "POLICY",
+                        "InsuredContact": "5013",
+                        "MasterRecordGid": "4549"
+                    }
+                ],
+                "InsuredBillingInfo": [
+                    {
+                        "EntityReference": "PPMPH0000003450000",
+                        "EntityType": "POLICY",
+                        "InsuredBilling": "5013"
+                    }
+                ]
+            }
+        ],
+        "Producer": [
+            {
+                "DirectBillIndicator": "N",
+                "DisplayProducerCode": "1",
+                "DistinguishedFieldUw": "N",
+                "EntityReference": "PPMPH0000003450000",
+                "EntityType": "POLICY",
+                "ExtUpdMisPolicies": "SUCCESS",
+                "GoodStanding": "N",
+                "LicenseNo": "98765",
+                "LicenseStates": "NE",
+                "Name": "Web Sales",
+                "PolicyProducer": "1974",
+                "Primary": "Y",
+                "ProducerCode": "0000000001",
+                "ProducerOfRecord": "Y",
+                "SurplusLines": "N",
+                "Address": [
+                    {
+                        "AddressType": "Business",
+                        "City": "Omaha",
+                        "Country": "United States",
+                        "CountryCode": "USA",
+                        "County": "Douglas",
+                        "EntityReference": "PPMPH0000003450000",
+                        "EntityType": "POLICY",
+                        "IsAuditExpoProrated": "N",
+                        "Line1": "2600 Dodge Street",
+                        "ProducerAddress": "1880",
+                        "StateCode": "NE",
+                        "StateDesc": "Nebraska",
+                        "SysExposureIsUnits": "N",
+                        "ZipCode": "68131"
+                    }
+                ],
+                "Contact": [
+                    {
+                        "EntityReference": "PPMPH0000003450000",
+                        "EntityType": "POLICY",
+                        "Phone1": "(893) 230-8734",
+                        "ProducerContact": "1880"
+                    }
+                ]
+            }
+        ],
+        "AddInsured": [
+            {
+                "CEmail": "dan.nielsen@physiciansmutual.com",
+                "CFirstName": "Carrie",
+                "CGender": "Female",
+                "CInsDob": "1979-11-11 00:00:00.0",
+                "CLastName": "Nielsen",
+                "CPhoneNo": "(402) 555 - 1234",
+                "EntityReference": "PPMPH0000003450000",
+                "EntityType": "POLICY",
+                "PolicyPmCAddlInsured": "1974",
+                "AddIndAddrs": [
+                    {
+                        "AddressType": "Business",
+                        "City": "Omaha",
+                        "Country": "United States",
+                        "CountryCode": "USA",
+                        "County": "Douglas",
+                        "CAdditionalInsured": "5",
+                        "EntityReference": "PPMPH0000003450000",
+                        "EntityType": "POLICY",
+                        "IsAuditExpoProrated": "N",
+                        "Line1": "2600 Dodge St",
+                        "StateCode": "NE",
+                        "StateDesc": "Nebraska",
+                        "SysExposureIsUnits": "N",
+                        "ZipCode": "68134"
+                    }
+                ]
+            }
+        ],
+        "LOB_PH": [
+            {
+                "CPolicyDiscount": "-10",
+                "CTotAnnPolDisc": "-80.89",
+                "EntityReference": "PPMPH0000003450000",
+                "EntityType": "POLICY",
+                "IsCovManuallyRated": "N",
+                "LobCode": "PH",
+                "PolicyLobPh": "1974",
+                "ProductCode": "PH",
+                "RiskState": "NE",
+                "WaivedPremium": "0",
+                "PremiumAttributes": {
+                    "AnnualPremium": "686.35",
+                    "BalanceToMinimum": "0",
+                    "CommissionablePremium": "58.29",
+                    "FullTermPremium": "58.29",
+                    "TransactionPremium": "58.29",
+                    "TransPremNotSubToAud": "58.29",
+                    "WrittenPremium": "58.29"
+                },
+                "PHBasicPetInformation": [
+                    {
+                        "CAgeNew": "2",
+                        "CBreed": "Bull Terrier-Miniature",
+                        "CBreedGroup": "S2",
+                        "CExpectedLife": "EL12",
+                        "CGender": "Male",
+                        "CName": "Odie",
+                        "CPetNumber": "1",
+                        "CPetTransEffDate": "2022-03-30 00:00:00.0",
+                        "CPetType": "Dog",
+                        "CPhPetDetId": "1833",
+                        "CSpecies": "Canine",
+                        "CTotalAnnualDiscounts": "-57.49",
+                        "EntityReference": "PPMPH0000003450000",
+                        "EntityType": "POLICY"
+                    },
+                    {
+                        "CAgeNew": "5",
+                        "CBreed": "Sphynx",
+                        "CBreedGroup": "Low",
+                        "CExpectedLife": "EL14",
+                        "CGender": "Male",
+                        "CName": "Garfield",
+                        "CPetNumber": "2",
+                        "CPetTransEffDate": "2022-03-30 00:00:00.0",
+                        "CPetType": "Cat",
+                        "CPhPetDetId": "1833",
+                        "CSpecies": "Feline",
+                        "CTotalAnnualDiscounts": "-23.4",
+                        "EntityReference": "PPMPH0000003450000",
+                        "EntityType": "POLICY"
+                    }
+                ],
+                "csavingbydiscount": [
+                    {
+                        "CSavingByDiscount": "1833",
+                        "CTotlAnnualSavingDis": "-100.04",
+                        "EntityReference": "PPMPH0000003450000",
+                        "EntityType": "POLICY",
+                        "csavegbydiscnt": [
+                            {
+                                "CAnnualSavings": "-30.86",
+                                "CDiscount": "Multi-pet",
+                                "CSavingByDiscnt": "857",
+                                "EntityReference": "PPMPH0000003450000",
+                                "EntityStatus": "AUTO",
+                                "EntityType": "POLICY"
+                            },
+                            {
+                                "CAnnualSavings": "-30.86",
+                                "CDiscount": "Multi-Policy",
+                                "CSavingByDiscnt": "857",
+                                "EntityReference": "PPMPH0000003450000",
+                                "EntityStatus": "AUTO",
+                                "EntityType": "POLICY"
+                            },
+                            {
+                                "CDiscount": "Employer - Under 50 EEs",
+                                "CSavingByDiscnt": "857",
+                                "EntityReference": "PPMPH0000003450000",
+                                "EntityStatus": "AUTO",
+                                "EntityType": "POLICY"
+                            },
+                            {
+                                "CDiscount": "Employer - Over 50 EEs",
+                                "CSavingByDiscnt": "857",
+                                "EntityReference": "PPMPH0000003450000",
+                                "EntityStatus": "AUTO",
+                                "EntityType": "POLICY"
+                            },
+                            {
+                                "CDiscount": "Pet Friendly Employer",
+                                "CSavingByDiscnt": "857",
+                                "EntityReference": "PPMPH0000003450000",
+                                "EntityStatus": "AUTO",
+                                "EntityType": "POLICY"
+                            },
+                            {
+                                "CDiscount": "Web Partner (First Year Only)",
+                                "CSavingByDiscnt": "857",
+                                "EntityReference": "PPMPH0000003450000",
+                                "EntityStatus": "AUTO",
+                                "EntityType": "POLICY"
+                            },
+                            {
+                                "CDiscount": "Strategic Partner",
+                                "CSavingByDiscnt": "857",
+                                "EntityReference": "PPMPH0000003450000",
+                                "EntityStatus": "AUTO",
+                                "EntityType": "POLICY"
+                            },
+                            {
+                                "CDiscount": "Affinity Group",
+                                "CSavingByDiscnt": "857",
+                                "EntityReference": "PPMPH0000003450000",
+                                "EntityStatus": "AUTO",
+                                "EntityType": "POLICY"
+                            },
+                            {
+                                "CAnnualSavings": "-19.16",
+                                "CDiscount": "Service Dog",
+                                "CSavingByDiscnt": "857",
+                                "EntityReference": "PPMPH0000003450000",
+                                "EntityStatus": "AUTO",
+                                "EntityType": "POLICY"
+                            },
+                            {
+                                "CAnnualSavings": "-19.16",
+                                "CDiscount": "Military",
+                                "CSavingByDiscnt": "857",
+                                "EntityReference": "PPMPH0000003450000",
+                                "EntityStatus": "AUTO",
+                                "EntityType": "POLICY"
+                            }
+                        ]
+                    }
+                ],
+                "PhDiscounts": [
+                    {
+                        "CAdditionalDiscount": "N",
+                        "CDiscount": "Multi-pet",
+                        "CDiscountPercent": "-5",
+                        "CPiDiscount": "1833",
+                        "CSelect": "Y",
+                        "CSortby": "1",
+                        "EntityReference": "PPMPH0000003450000",
+                        "EntityStatus": "AUTO",
+                        "EntityType": "POLICY"
+                    },
+                    {
+                        "CAdditionalDiscount": "N",
+                        "CDiscount": "Multi-Policy",
+                        "CDiscountPercent": "-5",
+                        "CPiDiscount": "1833",
+                        "CSelect": "Y",
+                        "CSortby": "2",
+                        "EntityReference": "PPMPH0000003450000",
+                        "EntityStatus": "AUTO",
+                        "EntityType": "POLICY"
+                    },
+                    {
+                        "CAdditionalDiscount": "N",
+                        "CDiscount": "Employer - Under 50 EEs",
+                        "CDiscountPercent": "-5",
+                        "CPiDiscount": "1833",
+                        "CSelect": "N",
+                        "CSortby": "3",
+                        "EntityReference": "PPMPH0000003450000",
+                        "EntityStatus": "AUTO",
+                        "EntityType": "POLICY"
+                    },
+                    {
+                        "CAdditionalDiscount": "N",
+                        "CDiscount": "Employer - Over 50 EEs",
+                        "CDiscountPercent": "-10",
+                        "CPiDiscount": "1833",
+                        "CSelect": "N",
+                        "CSortby": "4",
+                        "EntityReference": "PPMPH0000003450000",
+                        "EntityStatus": "AUTO",
+                        "EntityType": "POLICY"
+                    },
+                    {
+                        "CAdditionalDiscount": "Y",
+                        "CDiscount": "Pet Friendly Employer",
+                        "CDiscountPercent": "-2",
+                        "CPiDiscount": "1833",
+                        "CSelect": "N",
+                        "CSortby": "5",
+                        "EntityReference": "PPMPH0000003450000",
+                        "EntityStatus": "AUTO",
+                        "EntityType": "POLICY"
+                    },
+                    {
+                        "CAdditionalDiscount": "N",
+                        "CDiscount": "Web Partner (First Year Only)",
+                        "CDiscountPercent": "-5",
+                        "CPiDiscount": "1833",
+                        "CSelect": "N",
+                        "CSortby": "7",
+                        "EntityReference": "PPMPH0000003450000",
+                        "EntityStatus": "AUTO",
+                        "EntityType": "POLICY"
+                    },
+                    {
+                        "CAdditionalDiscount": "N",
+                        "CDiscount": "Strategic Partner",
+                        "CDiscountPercent": "-10",
+                        "CPiDiscount": "1833",
+                        "CSelect": "N",
+                        "CSortby": "8",
+                        "EntityReference": "PPMPH0000003450000",
+                        "EntityStatus": "AUTO",
+                        "EntityType": "POLICY"
+                    },
+                    {
+                        "CAdditionalDiscount": "N",
+                        "CDiscount": "Affinity Group",
+                        "CDiscountPercent": "-10",
+                        "CPiDiscount": "1833",
+                        "CSelect": "N",
+                        "CSortby": "9",
+                        "EntityReference": "PPMPH0000003450000",
+                        "EntityStatus": "AUTO",
+                        "EntityType": "POLICY"
+                    }
+                ],
+                "TaxesSurchargesFees": [
+                    {
+                        "CAplyEnrollFee": "Y",
+                        "CAplyInstalFee": "Y",
+                        "CPiTaxSuFe": "1833",
+                        "EntityReference": "PPMPH0000003450000",
+                        "EntityType": "POLICY",
+                        "IsCovManuallyRated": "N",
+                        "LobCode": "PH",
+                        "ProductCode": "PH",
+                        "RiskState": "NE",
+                        "RiskStateStatCode": "26",
+                        "WaivedPremium": "0",
+                        "PremiumAttributes": {
+                            "AnnualPremium": "0",
+                            "BalanceToMinimum": "0",
+                            "CommissionablePremium": "0",
+                            "FullTermPremium": "0",
+                            "TransactionPremium": "0",
+                            "TransPremNotSubToAud": "0",
+                            "WrittenPremium": "0"
+                        }
+                    }
+                ],
+                "PetInsurancePet": [
+                    {
+                        "CAge": "2",
+                        "CBreed": "Bull Terrier-Miniature",
+                        "CBreedGroup": "S2",
+                        "CDispPetName": "Pet 1 - Odie, 2, Canine, Bull Terrier-Miniature",
+                        "CExpectedLife": "EL12",
+                        "CFiveDigitZip": "68131",
+                        "CGender": "Male",
+                        "CHasPetYN": "N",
+                        "CName": "Odie",
+                        "CPet": "1833",
+                        "CPetNumber": "1",
+                        "CPetTransEffectDt": "2022-03-30 00:00:00.0",
+                        "CPetType": "Dog",
+                        "CPrimaryState": "Nebraska",
+                        "CSpecies": "Canine",
+                        "CThreeDigitZip": "681",
+                        "CWellness": "Y",
+                        "EntityReference": "PPMPH0000003450000",
+                        "EntityStatus": "AUTO",
+                        "EntityType": "POLICY",
+                        "IsCovManuallyRated": "N",
+                        "LobCode": "PH",
+                        "ProductCode": "PH",
+                        "RiskState": "NE",
+                        "RiskStateStatCode": "26",
+                        "WaivedPremium": "0",
+                        "PremiumAttributes": {
+                            "AnnualPremium": "409.75",
+                            "BalanceToMinimum": "0",
+                            "CommissionablePremium": "34.79",
+                            "FullTermPremium": "34.79",
+                            "TransactionPremium": "34.79",
+                            "TransPremNotSubToAud": "34.79",
+                            "WrittenPremium": "34.79"
+                        },
+                        "CPIPlan": [
+                            {
+                                "CAccAwaitDt": "2022-03-31 00:00:00.0",
+                                "CAccExpDt": "2022-04-30 00:00:00.0",
+                                "CAccWaitPeriod": "1",
+                                "CAnnualDeductible": "250",
+                                "CAnnCovLimitType": "L",
+                                "CAnnCovLmt": "15000",
+                                "CCoinsurance": "20",
+                                "CCovType": "AI",
+                                "CDedReduction": "0",
+                                "CDedReducAmt": "50",
+                                "CEffectAnnDed": "250",
+                                "CExcessIllnessDy": "0",
+                                "CExcessOrthoWtPrDy": "149",
+                                "CExcessWaitDays": "0",
+                                "CIllnessEffectiveDt": "2022-04-13 00:00:00.0",
+                                "CIllnessExpirDate": "2022-04-30 00:00:00.0",
+                                "CIllnessWaitDays": "14",
+                                "CNumTermCount": "0",
+                                "COrthopedicWaitPrDy": "180",
+                                "COrthoEffectDt": "2022-09-26 00:00:00.0",
+                                "COrthoExpDate": "2022-04-30 00:00:00.0",
+                                "CPerIncidentCopay": "0",
+                                "CPiPlan": "2246",
+                                "CReimbursement": "80",
+                                "CSelectedPetPlan": "Standard",
+                                "CWaiveOrthoWaitPr": "N",
+                                "EntityReference": "PPMPH0000003450000",
+                                "EntityType": "POLICY"
+                            }
+                        ],
+                        "CPetPIDiscount": [
+                            {
+                                "CAddiDiscount": "0",
+                                "CMaxDiscount": "-15",
+                                "CPetDiscount": "-10",
+                                "CPetPiDiscount": "2246",
+                                "CPolicyDiscount": "-10",
+                                "CTotalDiscount": "-15",
+                                "EntityReference": "PPMPH0000003450000",
+                                "EntityType": "POLICY",
+                                "CDiScountTab": [
+                                    {
+                                        "CAdditionalDiscount": "N",
+                                        "CDiscount": "Service Dog",
+                                        "CDiscountPercentage": "-5",
+                                        "CPetTabPiDisct": "1963",
+                                        "CSelect": "Y",
+                                        "EntityReference": "PPMPH0000003450000",
+                                        "EntityStatus": "AUTO",
+                                        "EntityType": "POLICY"
+                                    },
+                                    {
+                                        "CAdditionalDiscount": "N",
+                                        "CDiscount": "Military",
+                                        "CDiscountPercentage": "-5",
+                                        "CPetTabPiDisct": "1963",
+                                        "CSelect": "Y",
+                                        "EntityReference": "PPMPH0000003450000",
+                                        "EntityStatus": "AUTO",
+                                        "EntityType": "POLICY"
+                                    }
+                                ]
+                            }
+                        ],
+                        "PetRating": [
+                            {
+                                "CAccidentOnlyFtr": "1",
+                                "CAgeFtr": "0.93",
+                                "CAreaFtr": "0.8006",
+                                "CBaseRate": "488.48",
+                                "CBreedFtr": "1.125",
+                                "CCoinsuranceFtr": "0.933",
+                                "CCoverage": "Pet Plan",
+                                "CCoverageCode": "PM-PH-PET_PLAN",
+                                "CDeductFtr": "1.0039",
+                                "CMedBaseRate": "488.48",
+                                "CPerInciCopay": "1",
+                                "CPetFinalPbrPremium": "383.24",
+                                "CPetTransEffectDt": "2022-03-30 00:00:00.0",
+                                "CPiCovPetRt": "2246",
+                                "CRatingFormula": "BASE RATE * ACCIDENT ONLY FTR * AREA FTR * DEDUCT FTR * COINSURANCE FTR * AGE FTR * PER INCIDENT COPAY * BREED FTR\n\nBASE RATE=488.48; ACCIDENT ONLY FTR=1;AREA FTR=.8006;DEDUCT FTR=1.0039;COINSURANCE FTR=.933;AGE FTR=.93;PER INCIDENT COPAY=1; BREED FTR =1.125",
+                                "CRatingFunction": " K_PH_UTILITIES.F_CALC_PM_PET_COV_PBR",
+                                "CSeq": "1000",
+                                "CTrendFactor": "1",
+                                "EntityReference": "PPMPH0000003450000",
+                                "EntityType": "POLICY",
+                                "IsCovManuallyRated": "N",
+                                "LobCode": "PH",
+                                "ProductCode": "PH",
+                                "RiskState": "NE",
+                                "RiskStateStatCode": "26",
+                                "WaivedPremium": "0",
+                                "PremiumAttributes": {
+                                    "AnnualPremium": "383.24",
+                                    "BalanceToMinimum": "0",
+                                    "CommissionablePremium": "32.55",
+                                    "FullTermPremium": "32.55",
+                                    "IsSubToFullyCharge": "N",
+                                    "IsSubToFullyEarn": "N",
+                                    "TransactionPremium": "32.55",
+                                    "TransPremNotSubToAud": "32.55",
+                                    "WrittenPremium": "32.55"
+                                }
+                            }
+                        ],
+                        "COVERWELLNESS": [
+                            {
+                                "CCoverage": "Wellness Coverage",
+                                "CCoverageCode": "PM-PH-WEL-COV",
+                                "CCovWell": "2246",
+                                "CDewormingLimit": "10",
+                                "CExcessWellWaitPerDt": "0",
+                                "CMicroHelthCertLimit": "15",
+                                "CNeuterTeethCleanLmt": "40",
+                                "CRatingFormula": "Wellness Coverage",
+                                "CRatingFunction": " K_PH_UTILITIES.F_CALC_PM_WELLNESS_COV",
+                                "CSeq": "1800",
+                                "CTestsLimit": "20",
+                                "CTier": "Tier 2",
+                                "CVaccinesLimit": "30",
+                                "CWellnessEffectDt": "2022-03-31 00:00:00.0",
+                                "CWellnessExamLimit": "20",
+                                "CWellnessExpirDt": "2022-04-30 00:00:00.0",
+                                "CWellnessPlan": "Basic",
+                                "CWellnessPremium": "84",
+                                "CWellnessWaitPeriod": "1",
+                                "EntityReference": "PPMPH0000003450000",
+                                "EntityType": "POLICY",
+                                "IsCovManuallyRated": "N",
+                                "LobCode": "PH",
+                                "ProductCode": "PH",
+                                "RiskState": "NE",
+                                "RiskStateStatCode": "26",
+                                "WaivedPremium": "0",
+                                "PremiumAttributes": {
+                                    "AnnualPremium": "84",
+                                    "BalanceToMinimum": "0",
+                                    "CommissionablePremium": "7.13",
+                                    "FullTermPremium": "7.13",
+                                    "IsSubToFullyCharge": "N",
+                                    "IsSubToFullyEarn": "N",
+                                    "TransactionPremium": "7.13",
+                                    "TransPremNotSubToAud": "7.13",
+                                    "WrittenPremium": "7.13"
+                                }
+                            }
+                        ],
+                        "PetOptCov": [
+                            {
+                                "CPiCovOptionalCov": "2246",
+                                "EntityReference": "PPMPH0000003450000",
+                                "EntityType": "POLICY",
+                                "IsCovManuallyRated": "N",
+                                "LobCode": "PH",
+                                "ProductCode": "PH",
+                                "RiskState": "NE",
+                                "RiskStateStatCode": "26",
+                                "WaivedPremium": "0",
+                                "PremiumAttributes": {
+                                    "AnnualPremium": "0",
+                                    "BalanceToMinimum": "0",
+                                    "CommissionablePremium": "0",
+                                    "FullTermPremium": "0",
+                                    "TransactionPremium": "0",
+                                    "TransPremNotSubToAud": "0",
+                                    "WrittenPremium": "0"
+                                },
+                                "PetAllOptCov": [
+                                    {
+                                        "CCoverage": "Exam Fees",
+                                        "CIsCovSelected": "N",
+                                        "COptAnnualPremium": "76.65",
+                                        "COptCovCode": "PH-EXAM-COV",
+                                        "CPbr": "383.24",
+                                        "CPiCovOptTab": "1963",
+                                        "CRate": "0.2",
+                                        "EntityReference": "PPMPH0000003450000",
+                                        "EntityStatus": "AUTO",
+                                        "EntityType": "POLICY"
+                                    },
+                                    {
+                                        "CCoverage": "Take Home Prescriptions",
+                                        "CIsCovSelected": "N",
+                                        "COptAnnualPremium": "76.65",
+                                        "COptCovCode": "PH-TKHOME-COV",
+                                        "CPbr": "383.24",
+                                        "CPiCovOptTab": "1963",
+                                        "CRate": "0.2",
+                                        "EntityReference": "PPMPH0000003450000",
+                                        "EntityStatus": "AUTO",
+                                        "EntityType": "POLICY"
+                                    },
+                                    {
+                                        "CCoverage": "Rehab/PT",
+                                        "CIsCovSelected": "N",
+                                        "COptAnnualPremium": "13.38",
+                                        "COptCovCode": "PH-REHABPT-COV",
+                                        "CPbr": "383.24",
+                                        "CPiCovOptTab": "1963",
+                                        "CRate": "0.0349",
+                                        "EntityReference": "PPMPH0000003450000",
+                                        "EntityStatus": "AUTO",
+                                        "EntityType": "POLICY"
+                                    },
+                                    {
+                                        "CCoverage": "Holistic/Alternative",
+                                        "CIsCovSelected": "N",
+                                        "COptAnnualPremium": "6.59",
+                                        "COptCovCode": "PH-HOLIALT-COV",
+                                        "CPbr": "383.24",
+                                        "CPiCovOptTab": "1963",
+                                        "CRate": "0.0172",
+                                        "EntityReference": "PPMPH0000003450000",
+                                        "EntityStatus": "AUTO",
+                                        "EntityType": "POLICY"
+                                    },
+                                    {
+                                        "CCoverage": "Diminishing Deductible",
+                                        "CIsCovSelected": "N",
+                                        "COptAnnualPremium": "12.65",
+                                        "COptCovCode": "PH-DIMDED-COV",
+                                        "CPbr": "383.24",
+                                        "CPiCovOptTab": "1963",
+                                        "CRate": "0.033",
+                                        "EntityReference": "PPMPH0000003450000",
+                                        "EntityStatus": "AUTO",
+                                        "EntityType": "POLICY"
+                                    },
+                                    {
+                                        "CCoverage": "Working Dog",
+                                        "CIsCovSelected": "N",
+                                        "COptAnnualPremium": "38.32",
+                                        "COptCovCode": "PH-WORKDOG-COV",
+                                        "CPbr": "383.24",
+                                        "CPiCovOptTab": "1963",
+                                        "CRate": "0.1",
+                                        "EntityReference": "PPMPH0000003450000",
+                                        "EntityStatus": "AUTO",
+                                        "EntityType": "POLICY"
+                                    },
+                                    {
+                                        "CCoverage": "Pre-Ex",
+                                        "CCoverageOption": "6-Month Buy-in",
+                                        "CIsCovSelected": "N",
+                                        "COptAnnualPremium": "11.11",
+                                        "COptCovCode": "PH-PREEX-COV",
+                                        "CPbr": "383.24",
+                                        "CPiCovOptTab": "1963",
+                                        "CRate": "0.029",
+                                        "EntityReference": "PPMPH0000003450000",
+                                        "EntityStatus": "AUTO",
+                                        "EntityType": "POLICY"
+                                    },
+                                    {
+                                        "CCoverage": "Pet Owner Assistance Rider",
+                                        "CIsCovSelected": "N",
+                                        "COptAnnualPremium": "59.4",
+                                        "COptCovCode": "PH-OWNRIDE-COV",
+                                        "CPiCovOptTab": "1963",
+                                        "CRate": "59.4",
+                                        "EntityReference": "PPMPH0000003450000",
+                                        "EntityStatus": "AUTO",
+                                        "EntityType": "POLICY"
+                                    },
+                                    {
+                                        "CCoverage": "Final Respects",
+                                        "CIsCovSelected": "N",
+                                        "COptAnnualPremium": "20",
+                                        "COptCovCode": "PH-FINRES-COV",
+                                        "CPiCovOptTab": "1963",
+                                        "CRate": "20",
+                                        "CSublimit": "250",
+                                        "EntityReference": "PPMPH0000003450000",
+                                        "EntityStatus": "AUTO",
+                                        "EntityType": "POLICY"
+                                    },
+                                    {
+                                        "CCoverage": "Accident, Death & Dismemberment",
+                                        "CIsCovSelected": "N",
+                                        "COptAnnualPremium": "71.4",
+                                        "COptCovCode": "PH-ACCDEA-COV",
+                                        "CPiCovOptTab": "1963",
+                                        "CRate": "71.4",
+                                        "EntityReference": "PPMPH0000003450000",
+                                        "EntityStatus": "AUTO",
+                                        "EntityType": "POLICY"
+                                    }
+                                ]
+                            }
+                        ],
+                        "savingsByDiscPet": [
+                            {
+                                "CPiSavingsByDisc": "2246",
+                                "CTotApAllowedDisc": "383.24",
+                                "EntityReference": "PPMPH0000003450000",
+                                "EntityType": "POLICY",
+                                "IsCovManuallyRated": "N",
+                                "LobCode": "PH",
+                                "ProductCode": "PH",
+                                "RiskState": "NE",
+                                "RiskStateStatCode": "26",
+                                "WaivedPremium": "0",
+                                "PremiumAttributes": {
+                                    "AnnualPremium": "-76.64",
+                                    "BalanceToMinimum": "0",
+                                    "CommissionablePremium": "-6.52",
+                                    "FullTermPremium": "-6.52",
+                                    "TransactionPremium": "-6.52",
+                                    "TransPremNotSubToAud": "-6.52",
+                                    "WrittenPremium": "-6.52"
+                                },
+                                "savingsByDiscTabPet": [
+                                    {
+                                        "CAnnualSavings": "-19.16",
+                                        "CDiscount": "Multi-pet",
+                                        "CDiscountCode": "PM-MLTPET-DIS",
+                                        "CDiscRate": "-5",
+                                        "CPiSavingByDiscTab": "950",
+                                        "EntityReference": "PPMPH0000003450000",
+                                        "EntityStatus": "AUTO",
+                                        "EntityType": "POLICY"
+                                    },
+                                    {
+                                        "CAnnualSavings": "-19.16",
+                                        "CDiscount": "Multi-Policy",
+                                        "CDiscountCode": "PM-MLTIPO-DIS",
+                                        "CDiscRate": "-5",
+                                        "CPiSavingByDiscTab": "950",
+                                        "EntityReference": "PPMPH0000003450000",
+                                        "EntityStatus": "AUTO",
+                                        "EntityType": "POLICY"
+                                    },
+                                    {
+                                        "CDiscount": "Employer - Under 50 EEs",
+                                        "CDiscountCode": "PM-EMPBLW-DIS",
+                                        "CPiSavingByDiscTab": "950",
+                                        "EntityReference": "PPMPH0000003450000",
+                                        "EntityStatus": "AUTO",
+                                        "EntityType": "POLICY"
+                                    },
+                                    {
+                                        "CDiscount": "Employer - Over 50 EEs",
+                                        "CDiscountCode": "PM-EMPOVR-DIS",
+                                        "CPiSavingByDiscTab": "950",
+                                        "EntityReference": "PPMPH0000003450000",
+                                        "EntityStatus": "AUTO",
+                                        "EntityType": "POLICY"
+                                    },
+                                    {
+                                        "CDiscount": "Pet Friendly Employer",
+                                        "CDiscountCode": "PM-PETFRN-DIS",
+                                        "CPiSavingByDiscTab": "950",
+                                        "EntityReference": "PPMPH0000003450000",
+                                        "EntityStatus": "AUTO",
+                                        "EntityType": "POLICY"
+                                    },
+                                    {
+                                        "CDiscount": "Web Partner (First Year Only)",
+                                        "CDiscountCode": "PM-WEBPRT-DIS",
+                                        "CPiSavingByDiscTab": "950",
+                                        "EntityReference": "PPMPH0000003450000",
+                                        "EntityStatus": "AUTO",
+                                        "EntityType": "POLICY"
+                                    },
+                                    {
+                                        "CDiscount": "Strategic Partner",
+                                        "CDiscountCode": "PM-STRPRT-DIS",
+                                        "CPiSavingByDiscTab": "950",
+                                        "EntityReference": "PPMPH0000003450000",
+                                        "EntityStatus": "AUTO",
+                                        "EntityType": "POLICY"
+                                    },
+                                    {
+                                        "CDiscount": "Affinity Group",
+                                        "CDiscountCode": "PM-AFFINT-DIS",
+                                        "CPiSavingByDiscTab": "950",
+                                        "EntityReference": "PPMPH0000003450000",
+                                        "EntityStatus": "AUTO",
+                                        "EntityType": "POLICY"
+                                    },
+                                    {
+                                        "CAnnualSavings": "-19.16",
+                                        "CDiscount": "Service Dog",
+                                        "CDiscountCode": "PM-SERDOG-DIS",
+                                        "CDiscRate": "-5",
+                                        "CPiSavingByDiscTab": "950",
+                                        "EntityReference": "PPMPH0000003450000",
+                                        "EntityStatus": "AUTO",
+                                        "EntityType": "POLICY"
+                                    },
+                                    {
+                                        "CAnnualSavings": "-19.16",
+                                        "CDiscount": "Military",
+                                        "CDiscountCode": "PM-MILTRY-DIS",
+                                        "CDiscRate": "-5",
+                                        "CPiSavingByDiscTab": "950",
+                                        "EntityReference": "PPMPH0000003450000",
+                                        "EntityStatus": "AUTO",
+                                        "EntityType": "POLICY"
+                                    }
+                                ],
+                                "savingsByDiscRatePet": [
+                                    {
+                                        "CCoverage": "Multi-pet",
+                                        "CCoverageCode": "PM-MLTPET-DIS",
+                                        "CPiSaviByDiscRate": "950",
+                                        "CRatingFormula": "Multi-pet",
+                                        "CRatingFunction": " K_PH_UTILITIES.F_CALC_PM_SAV_DISC_COV",
+                                        "CSaviByDiscPrem": "-19.16",
+                                        "CSeq": "5000",
+                                        "EntityReference": "PPMPH0000003450000",
+                                        "EntityStatus": "AUTO",
+                                        "EntityType": "POLICY",
+                                        "IsCovManuallyRated": "N",
+                                        "LobCode": "PH",
+                                        "ProductCode": "PH",
+                                        "RiskState": "NE",
+                                        "RiskStateStatCode": "26",
+                                        "WaivedPremium": "0",
+                                        "PremiumAttributes": {
+                                            "AnnualPremium": "-19.16",
+                                            "BalanceToMinimum": "0",
+                                            "CommissionablePremium": "-1.63",
+                                            "FullTermPremium": "-1.63",
+                                            "IsSubToFullyCharge": "N",
+                                            "IsSubToFullyEarn": "N",
+                                            "TransactionPremium": "-1.63",
+                                            "TransPremNotSubToAud": "-1.63",
+                                            "WrittenPremium": "-1.63"
+                                        }
+                                    },
+                                    {
+                                        "CCoverage": "Multi-Policy",
+                                        "CCoverageCode": "PM-MLTIPO-DIS",
+                                        "CPiSaviByDiscRate": "950",
+                                        "CRatingFormula": "Multi-Policy",
+                                        "CRatingFunction": "K_PH_UTILITIES.F_CALC_PM_SAV_DISC_COV",
+                                        "CSaviByDiscPrem": "-19.16",
+                                        "CSeq": "5100",
+                                        "EntityReference": "PPMPH0000003450000",
+                                        "EntityStatus": "AUTO",
+                                        "EntityType": "POLICY",
+                                        "IsCovManuallyRated": "N",
+                                        "LobCode": "PH",
+                                        "ProductCode": "PH",
+                                        "RiskState": "NE",
+                                        "RiskStateStatCode": "26",
+                                        "WaivedPremium": "0",
+                                        "PremiumAttributes": {
+                                            "AnnualPremium": "-19.16",
+                                            "BalanceToMinimum": "0",
+                                            "CommissionablePremium": "-1.63",
+                                            "FullTermPremium": "-1.63",
+                                            "IsSubToFullyCharge": "N",
+                                            "IsSubToFullyEarn": "N",
+                                            "TransactionPremium": "-1.63",
+                                            "TransPremNotSubToAud": "-1.63",
+                                            "WrittenPremium": "-1.63"
+                                        }
+                                    },
+                                    {
+                                        "CCoverage": "Service Dog",
+                                        "CCoverageCode": "PM-SERDOG-DIS",
+                                        "CPiSaviByDiscRate": "950",
+                                        "CRatingFormula": "Service Dog",
+                                        "CRatingFunction": "K_PH_UTILITIES.F_CALC_PM_SAV_DISC_COV",
+                                        "CSaviByDiscPrem": "-19.16",
+                                        "CSeq": "5800",
+                                        "EntityReference": "PPMPH0000003450000",
+                                        "EntityStatus": "AUTO",
+                                        "EntityType": "POLICY",
+                                        "IsCovManuallyRated": "N",
+                                        "LobCode": "PH",
+                                        "ProductCode": "PH",
+                                        "RiskState": "NE",
+                                        "RiskStateStatCode": "26",
+                                        "WaivedPremium": "0",
+                                        "PremiumAttributes": {
+                                            "AnnualPremium": "-19.16",
+                                            "BalanceToMinimum": "0",
+                                            "CommissionablePremium": "-1.63",
+                                            "FullTermPremium": "-1.63",
+                                            "IsSubToFullyCharge": "N",
+                                            "IsSubToFullyEarn": "N",
+                                            "TransactionPremium": "-1.63",
+                                            "TransPremNotSubToAud": "-1.63",
+                                            "WrittenPremium": "-1.63"
+                                        }
+                                    },
+                                    {
+                                        "CCoverage": "Military",
+                                        "CCoverageCode": "PM-MILTRY-DIS",
+                                        "CPiSaviByDiscRate": "950",
+                                        "CRatingFormula": "Military",
+                                        "CRatingFunction": "K_PH_UTILITIES.F_CALC_PM_SAV_DISC_COV",
+                                        "CSaviByDiscPrem": "-19.16",
+                                        "CSeq": "5900",
+                                        "EntityReference": "PPMPH0000003450000",
+                                        "EntityStatus": "AUTO",
+                                        "EntityType": "POLICY",
+                                        "IsCovManuallyRated": "N",
+                                        "LobCode": "PH",
+                                        "ProductCode": "PH",
+                                        "RiskState": "NE",
+                                        "RiskStateStatCode": "26",
+                                        "WaivedPremium": "0",
+                                        "PremiumAttributes": {
+                                            "AnnualPremium": "-19.16",
+                                            "BalanceToMinimum": "0",
+                                            "CommissionablePremium": "-1.63",
+                                            "FullTermPremium": "-1.63",
+                                            "IsSubToFullyCharge": "N",
+                                            "IsSubToFullyEarn": "N",
+                                            "TransactionPremium": "-1.63",
+                                            "TransPremNotSubToAud": "-1.63",
+                                            "WrittenPremium": "-1.63"
+                                        }
+                                    }
+                                ]
+                            }
+                        ],
+                        "DiscountOffset": [
+                            {
+                                "CDiscountOffset": "2246",
+                                "EntityReference": "PPMPH0000003450000",
+                                "EntityType": "POLICY",
+                                "IsCovManuallyRated": "N",
+                                "LobCode": "PH",
+                                "ProductCode": "PH",
+                                "RiskState": "NE",
+                                "RiskStateStatCode": "26",
+                                "WaivedPremium": "0",
+                                "PremiumAttributes": {
+                                    "AnnualPremium": "76.64",
+                                    "BalanceToMinimum": "0",
+                                    "CommissionablePremium": "6.51",
+                                    "FullTermPremium": "6.51",
+                                    "TransactionPremium": "6.51",
+                                    "TransPremNotSubToAud": "6.51",
+                                    "WrittenPremium": "6.51"
+                                },
+                                "PetDiscountOffset": [
+                                    {
+                                        "CAnnualOffsetPremium": "76.64",
+                                        "CAnnualSaveByDiscTot": "-76.64",
+                                        "CCoverage": "Discount Offset",
+                                        "CCoverageCode": "PH-DISC-OFFSET",
+                                        "CCoverageName": "Discount Offset",
+                                        "CPetDiscountOffset": "422",
+                                        "CRate": "-1",
+                                        "EntityReference": "PPMPH0000003450000",
+                                        "EntityStatus": "AUTO",
+                                        "EntityType": "POLICY"
+                                    }
+                                ],
+                                "DiscOffsetCovRating": [
+                                    {
+                                        "CAnnualOffsetPremium": "76.64",
+                                        "CCoverage": "Discount Offset",
+                                        "CCoverageCode": "PH-DISC-OFFSET",
+                                        "CDisOfsetCovRatng": "422",
+                                        "CRatingFormula": "Discount Offset",
+                                        "CRatingFunction": " K_PH_UTILITIES.F_CALC_PM_DISC_OFFSET_COV",
+                                        "CSeq": "6000",
+                                        "EntityReference": "PPMPH0000003450000",
+                                        "EntityStatus": "AUTO",
+                                        "EntityType": "POLICY",
+                                        "IsCovManuallyRated": "N",
+                                        "LobCode": "PH",
+                                        "ProductCode": "PH",
+                                        "RiskState": "NE",
+                                        "RiskStateStatCode": "26",
+                                        "WaivedPremium": "0",
+                                        "PremiumAttributes": {
+                                            "AnnualPremium": "76.64",
+                                            "BalanceToMinimum": "0",
+                                            "CommissionablePremium": "6.51",
+                                            "FullTermPremium": "6.51",
+                                            "IsSubToFullyCharge": "N",
+                                            "IsSubToFullyEarn": "N",
+                                            "TransactionPremium": "6.51",
+                                            "TransPremNotSubToAud": "6.51",
+                                            "WrittenPremium": "6.51"
+                                        }
+                                    }
+                                ]
+                            }
+                        ],
+                        "DiscountPerCoverage": [
+                            {
+                                "CDiscountPerCoverage": "2246",
+                                "EntityReference": "PPMPH0000003450000",
+                                "EntityType": "POLICY",
+                                "IsCovManuallyRated": "N",
+                                "LobCode": "PH",
+                                "ProductCode": "PH",
+                                "RiskState": "NE",
+                                "RiskStateStatCode": "26",
+                                "WaivedPremium": "0",
+                                "PremiumAttributes": {
+                                    "AnnualPremium": "-57.49",
+                                    "BalanceToMinimum": "0",
+                                    "CommissionablePremium": "-4.88",
+                                    "FullTermPremium": "-4.88",
+                                    "TransactionPremium": "-4.88",
+                                    "TransPremNotSubToAud": "-4.88",
+                                    "WrittenPremium": "-4.88"
+                                },
+                                "PetDiscountCoverage": [
+                                    {
+                                        "CAnnualDiscountPremium": "-57.49",
+                                        "CAnnualPremium": "383.24",
+                                        "CCoverage": "Pet Plan Cov",
+                                        "CCoverageCode": "PH-PET-PLN-DIS",
+                                        "CDiscountFactor": "-0.15",
+                                        "CDisplayCoverage": "Pet Plan",
+                                        "CFinalAnnDisPremium": "-57.49",
+                                        "CPetDiscountCov": "422",
+                                        "EntityReference": "PPMPH0000003450000",
+                                        "EntityStatus": "AUTO",
+                                        "EntityType": "POLICY"
+                                    },
+                                    {
+                                        "CAnnualDiscountPremium": "-11.5",
+                                        "CAnnualPremium": "76.65",
+                                        "CCoverage": "Exam Fees Cov",
+                                        "CCoverageCode": "PH-EX-FEES-DIS",
+                                        "CDiscountFactor": "-0.15",
+                                        "CDisplayCoverage": "Exam Fees",
+                                        "CPetDiscountCov": "422",
+                                        "CSelect": "N",
+                                        "EntityReference": "PPMPH0000003450000",
+                                        "EntityStatus": "AUTO",
+                                        "EntityType": "POLICY"
+                                    },
+                                    {
+                                        "CAnnualDiscountPremium": "-11.5",
+                                        "CAnnualPremium": "76.65",
+                                        "CCoverage": "Take Home Prescriptions Cov",
+                                        "CCoverageCode": "PH-TK-HM-P-DIS",
+                                        "CDiscountFactor": "-0.15",
+                                        "CDisplayCoverage": "Take Home Prescriptions",
+                                        "CPetDiscountCov": "422",
+                                        "CSelect": "N",
+                                        "EntityReference": "PPMPH0000003450000",
+                                        "EntityStatus": "AUTO",
+                                        "EntityType": "POLICY"
+                                    },
+                                    {
+                                        "CAnnualDiscountPremium": "-2.01",
+                                        "CAnnualPremium": "13.38",
+                                        "CCoverage": "Rehab/PT Cov",
+                                        "CCoverageCode": "PH-REH-PT-DIS",
+                                        "CDiscountFactor": "-0.15",
+                                        "CDisplayCoverage": "Rehab/PT",
+                                        "CPetDiscountCov": "422",
+                                        "CSelect": "N",
+                                        "EntityReference": "PPMPH0000003450000",
+                                        "EntityStatus": "AUTO",
+                                        "EntityType": "POLICY"
+                                    },
+                                    {
+                                        "CAnnualDiscountPremium": "-0.99",
+                                        "CAnnualPremium": "6.59",
+                                        "CCoverage": "Holistic/Alternative Cov",
+                                        "CCoverageCode": "PH-HOL-ALT-DIS",
+                                        "CDiscountFactor": "-0.15",
+                                        "CDisplayCoverage": "Holistic/Alternative",
+                                        "CPetDiscountCov": "422",
+                                        "CSelect": "N",
+                                        "EntityReference": "PPMPH0000003450000",
+                                        "EntityStatus": "AUTO",
+                                        "EntityType": "POLICY"
+                                    },
+                                    {
+                                        "CAnnualDiscountPremium": "-5.75",
+                                        "CAnnualPremium": "38.32",
+                                        "CCoverage": "Working Dog Cov",
+                                        "CCoverageCode": "PH-WK-DOG-DIS",
+                                        "CDiscountFactor": "-0.15",
+                                        "CDisplayCoverage": "Working Dog",
+                                        "CPetDiscountCov": "422",
+                                        "CSelect": "N",
+                                        "EntityReference": "PPMPH0000003450000",
+                                        "EntityStatus": "AUTO",
+                                        "EntityType": "POLICY"
+                                    },
+                                    {
+                                        "CAnnualDiscountPremium": "-1.67",
+                                        "CAnnualPremium": "11.11",
+                                        "CCoverage": "Pre-Ex Cov",
+                                        "CCoverageCode": "PH-PRE-EX-DIS",
+                                        "CDiscountFactor": "-0.15",
+                                        "CDisplayCoverage": "Pre-Ex",
+                                        "CPetDiscountCov": "422",
+                                        "CSelect": "N",
+                                        "EntityReference": "PPMPH0000003450000",
+                                        "EntityStatus": "AUTO",
+                                        "EntityType": "POLICY"
+                                    },
+                                    {
+                                        "CAnnualDiscountPremium": "-1.9",
+                                        "CAnnualPremium": "12.65",
+                                        "CCoverage": "Diminishing Deductible Cov",
+                                        "CCoverageCode": "PH-DIM-DED-DIS",
+                                        "CDiscountFactor": "-0.15",
+                                        "CDisplayCoverage": "Diminishing Deductible",
+                                        "CPetDiscountCov": "422",
+                                        "CSelect": "N",
+                                        "EntityReference": "PPMPH0000003450000",
+                                        "EntityStatus": "AUTO",
+                                        "EntityType": "POLICY"
+                                    }
+                                ],
+                                "DiscountCoverageRating": [
+                                    {
+                                        "CCoverage": "Pet Plan Cov",
+                                        "CCoverageCode": "PH-PET-PLN-DIS",
+                                        "CDiscountCovRating": "422",
+                                        "CFinalAnnDisPremium": "-57.49",
+                                        "CRatingFormula": "Pet Plan Cov",
+                                        "CRatingFunction": " K_PH_UTILITIES.F_CALC_PM_DIS_PER_COV",
+                                        "CSeq": "4000",
+                                        "EntityReference": "PPMPH0000003450000",
+                                        "EntityStatus": "AUTO",
+                                        "EntityType": "POLICY",
+                                        "IsCovManuallyRated": "N",
+                                        "LobCode": "PH",
+                                        "ProductCode": "PH",
+                                        "RiskState": "NE",
+                                        "RiskStateStatCode": "26",
+                                        "WaivedPremium": "0",
+                                        "PremiumAttributes": {
+                                            "AnnualPremium": "-57.49",
+                                            "BalanceToMinimum": "0",
+                                            "CommissionablePremium": "-4.88",
+                                            "FullTermPremium": "-4.88",
+                                            "IsSubToFullyCharge": "N",
+                                            "IsSubToFullyEarn": "N",
+                                            "TransactionPremium": "-4.88",
+                                            "TransPremNotSubToAud": "-4.88",
+                                            "WrittenPremium": "-4.88"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "CAge": "5",
+                        "CBreed": "Sphynx",
+                        "CBreedGroup": "Low",
+                        "CDispPetName": "Pet 2 - Garfield, 5, Feline, Sphynx",
+                        "CExpectedLife": "EL14",
+                        "CFiveDigitZip": "68131",
+                        "CGender": "Male",
+                        "CHasPetYN": "N",
+                        "CName": "Garfield",
+                        "CPet": "1833",
+                        "CPetNumber": "2",
+                        "CPetTransEffectDt": "2022-03-30 00:00:00.0",
+                        "CPetType": "Cat",
+                        "CPrimaryState": "Nebraska",
+                        "CSpecies": "Feline",
+                        "CThreeDigitZip": "681",
+                        "CWellness": "Y",
+                        "EntityReference": "PPMPH0000003450000",
+                        "EntityStatus": "AUTO",
+                        "EntityType": "POLICY",
+                        "IsCovManuallyRated": "N",
+                        "LobCode": "PH",
+                        "ProductCode": "PH",
+                        "RiskState": "NE",
+                        "RiskStateStatCode": "26",
+                        "WaivedPremium": "0",
+                        "PremiumAttributes": {
+                            "AnnualPremium": "276.6",
+                            "BalanceToMinimum": "0",
+                            "CommissionablePremium": "23.5",
+                            "FullTermPremium": "23.5",
+                            "TransactionPremium": "23.5",
+                            "TransPremNotSubToAud": "23.5",
+                            "WrittenPremium": "23.5"
+                        },
+                        "CPIPlan": [
+                            {
+                                "CAccAwaitDt": "2022-03-31 00:00:00.0",
+                                "CAccExpDt": "2022-04-30 00:00:00.0",
+                                "CAccWaitPeriod": "1",
+                                "CAnnualDeductible": "250",
+                                "CAnnCovLimitType": "L",
+                                "CAnnCovLmt": "15000",
+                                "CCoinsurance": "20",
+                                "CCovType": "AI",
+                                "CDedReduction": "0",
+                                "CDedReducAmt": "50",
+                                "CEffectAnnDed": "250",
+                                "CExcessIllnessDy": "0",
+                                "CExcessOrthoWtPrDy": "149",
+                                "CExcessWaitDays": "0",
+                                "CIllnessEffectiveDt": "2022-04-13 00:00:00.0",
+                                "CIllnessExpirDate": "2022-04-30 00:00:00.0",
+                                "CIllnessWaitDays": "14",
+                                "CNumTermCount": "0",
+                                "COrthopedicWaitPrDy": "180",
+                                "COrthoEffectDt": "2022-09-26 00:00:00.0",
+                                "COrthoExpDate": "2022-04-30 00:00:00.0",
+                                "CPerIncidentCopay": "0",
+                                "CPiPlan": "2247",
+                                "CReimbursement": "80",
+                                "CSelectedPetPlan": "Standard",
+                                "CWaiveOrthoWaitPr": "N",
+                                "EntityReference": "PPMPH0000003450000",
+                                "EntityType": "POLICY"
+                            }
+                        ],
+                        "CPetPIDiscount": [
+                            {
+                                "CAddiDiscount": "0",
+                                "CMaxDiscount": "-15",
+                                "CPetPiDiscount": "2247",
+                                "CPolicyDiscount": "-10",
+                                "CTotalDiscount": "-10",
+                                "EntityReference": "PPMPH0000003450000",
+                                "EntityType": "POLICY",
+                                "CDiScountTab": [
+                                    {
+                                        "CAdditionalDiscount": "N",
+                                        "CDiscount": "Military",
+                                        "CDiscountPercentage": "-5",
+                                        "CPetTabPiDisct": "1964",
+                                        "CSelect": "N",
+                                        "EntityReference": "PPMPH0000003450000",
+                                        "EntityStatus": "AUTO",
+                                        "EntityType": "POLICY"
+                                    }
+                                ]
+                            }
+                        ],
+                        "PetRating": [
+                            {
+                                "CAccidentOnlyFtr": "1",
+                                "CAgeFtr": "1.1039",
+                                "CAreaFtr": "0.8006",
+                                "CBaseRate": "488.48",
+                                "CBreedFtr": "0.5787",
+                                "CCoinsuranceFtr": "0.933",
+                                "CCoverage": "Pet Plan",
+                                "CCoverageCode": "PM-PH-PET_PLAN",
+                                "CDeductFtr": "1.0039",
+                                "CMedBaseRate": "488.48",
+                                "CPerInciCopay": "1",
+                                "CPetFinalPbrPremium": "234",
+                                "CPetTransEffectDt": "2022-03-30 00:00:00.0",
+                                "CPiCovPetRt": "2247",
+                                "CRatingFormula": "BASE RATE * ACCIDENT ONLY FTR * AREA FTR * DEDUCT FTR * COINSURANCE FTR * AGE FTR * PER INCIDENT COPAY * BREED FTR\n\nBASE RATE=488.48; ACCIDENT ONLY FTR=1;AREA FTR=.8006;DEDUCT FTR=1.0039;COINSURANCE FTR=.933;AGE FTR=1.1039;PER INCIDENT COPAY=1; BREED FTR =.5787",
+                                "CRatingFunction": " K_PH_UTILITIES.F_CALC_PM_PET_COV_PBR",
+                                "CSeq": "1000",
+                                "CTrendFactor": "1",
+                                "EntityReference": "PPMPH0000003450000",
+                                "EntityType": "POLICY",
+                                "IsCovManuallyRated": "N",
+                                "LobCode": "PH",
+                                "ProductCode": "PH",
+                                "RiskState": "NE",
+                                "RiskStateStatCode": "26",
+                                "WaivedPremium": "0",
+                                "PremiumAttributes": {
+                                    "AnnualPremium": "234",
+                                    "BalanceToMinimum": "0",
+                                    "CommissionablePremium": "19.87",
+                                    "FullTermPremium": "19.87",
+                                    "IsSubToFullyCharge": "N",
+                                    "IsSubToFullyEarn": "N",
+                                    "TransactionPremium": "19.87",
+                                    "TransPremNotSubToAud": "19.87",
+                                    "WrittenPremium": "19.87"
+                                }
+                            }
+                        ],
+                        "COVERWELLNESS": [
+                            {
+                                "CCoverage": "Wellness Coverage",
+                                "CCoverageCode": "PM-PH-WEL-COV",
+                                "CCovWell": "2247",
+                                "CDewormingLimit": "10",
+                                "CExcessWellWaitPerDt": "0",
+                                "CMicroHelthCertLimit": "15",
+                                "CNeuterTeethCleanLmt": "40",
+                                "CRatingFormula": "Wellness Coverage",
+                                "CRatingFunction": " K_PH_UTILITIES.F_CALC_PM_WELLNESS_COV",
+                                "CSeq": "1800",
+                                "CTestsLimit": "20",
+                                "CTier": "Tier 2",
+                                "CVaccinesLimit": "30",
+                                "CWellnessEffectDt": "2022-03-31 00:00:00.0",
+                                "CWellnessExamLimit": "20",
+                                "CWellnessExpirDt": "2022-04-30 00:00:00.0",
+                                "CWellnessPlan": "Basic",
+                                "CWellnessPremium": "66",
+                                "CWellnessWaitPeriod": "1",
+                                "EntityReference": "PPMPH0000003450000",
+                                "EntityType": "POLICY",
+                                "IsCovManuallyRated": "N",
+                                "LobCode": "PH",
+                                "ProductCode": "PH",
+                                "RiskState": "NE",
+                                "RiskStateStatCode": "26",
+                                "WaivedPremium": "0",
+                                "PremiumAttributes": {
+                                    "AnnualPremium": "66",
+                                    "BalanceToMinimum": "0",
+                                    "CommissionablePremium": "5.61",
+                                    "FullTermPremium": "5.61",
+                                    "IsSubToFullyCharge": "N",
+                                    "IsSubToFullyEarn": "N",
+                                    "TransactionPremium": "5.61",
+                                    "TransPremNotSubToAud": "5.61",
+                                    "WrittenPremium": "5.61"
+                                }
+                            }
+                        ],
+                        "PetOptCov": [
+                            {
+                                "CPiCovOptionalCov": "2247",
+                                "EntityReference": "PPMPH0000003450000",
+                                "EntityType": "POLICY",
+                                "IsCovManuallyRated": "N",
+                                "LobCode": "PH",
+                                "ProductCode": "PH",
+                                "RiskState": "NE",
+                                "RiskStateStatCode": "26",
+                                "WaivedPremium": "0",
+                                "PremiumAttributes": {
+                                    "AnnualPremium": "0",
+                                    "BalanceToMinimum": "0",
+                                    "CommissionablePremium": "0",
+                                    "FullTermPremium": "0",
+                                    "TransactionPremium": "0",
+                                    "TransPremNotSubToAud": "0",
+                                    "WrittenPremium": "0"
+                                },
+                                "PetAllOptCov": [
+                                    {
+                                        "CCoverage": "Exam Fees",
+                                        "CIsCovSelected": "N",
+                                        "COptAnnualPremium": "46.8",
+                                        "COptCovCode": "PH-EXAM-COV",
+                                        "CPbr": "234",
+                                        "CPiCovOptTab": "1964",
+                                        "CRate": "0.2",
+                                        "EntityReference": "PPMPH0000003450000",
+                                        "EntityStatus": "AUTO",
+                                        "EntityType": "POLICY"
+                                    },
+                                    {
+                                        "CCoverage": "Take Home Prescriptions",
+                                        "CIsCovSelected": "N",
+                                        "COptAnnualPremium": "46.8",
+                                        "COptCovCode": "PH-TKHOME-COV",
+                                        "CPbr": "234",
+                                        "CPiCovOptTab": "1964",
+                                        "CRate": "0.2",
+                                        "EntityReference": "PPMPH0000003450000",
+                                        "EntityStatus": "AUTO",
+                                        "EntityType": "POLICY"
+                                    },
+                                    {
+                                        "CCoverage": "Rehab/PT",
+                                        "CIsCovSelected": "N",
+                                        "COptAnnualPremium": "8.17",
+                                        "COptCovCode": "PH-REHABPT-COV",
+                                        "CPbr": "234",
+                                        "CPiCovOptTab": "1964",
+                                        "CRate": "0.0349",
+                                        "EntityReference": "PPMPH0000003450000",
+                                        "EntityStatus": "AUTO",
+                                        "EntityType": "POLICY"
+                                    },
+                                    {
+                                        "CCoverage": "Holistic/Alternative",
+                                        "CIsCovSelected": "N",
+                                        "COptAnnualPremium": "4.02",
+                                        "COptCovCode": "PH-HOLIALT-COV",
+                                        "CPbr": "234",
+                                        "CPiCovOptTab": "1964",
+                                        "CRate": "0.0172",
+                                        "EntityReference": "PPMPH0000003450000",
+                                        "EntityStatus": "AUTO",
+                                        "EntityType": "POLICY"
+                                    },
+                                    {
+                                        "CCoverage": "Diminishing Deductible",
+                                        "CIsCovSelected": "N",
+                                        "COptAnnualPremium": "7.72",
+                                        "COptCovCode": "PH-DIMDED-COV",
+                                        "CPbr": "234",
+                                        "CPiCovOptTab": "1964",
+                                        "CRate": "0.033",
+                                        "EntityReference": "PPMPH0000003450000",
+                                        "EntityStatus": "AUTO",
+                                        "EntityType": "POLICY"
+                                    },
+                                    {
+                                        "CCoverage": "Pre-Ex",
+                                        "CCoverageOption": "6-Month Buy-in",
+                                        "CIsCovSelected": "N",
+                                        "COptAnnualPremium": "6.79",
+                                        "COptCovCode": "PH-PREEX-COV",
+                                        "CPbr": "234",
+                                        "CPiCovOptTab": "1964",
+                                        "CRate": "0.029",
+                                        "EntityReference": "PPMPH0000003450000",
+                                        "EntityStatus": "AUTO",
+                                        "EntityType": "POLICY"
+                                    },
+                                    {
+                                        "CCoverage": "Pet Owner Assistance Rider",
+                                        "CIsCovSelected": "N",
+                                        "COptAnnualPremium": "59.4",
+                                        "COptCovCode": "PH-OWNRIDE-COV",
+                                        "CPiCovOptTab": "1964",
+                                        "CRate": "59.4",
+                                        "EntityReference": "PPMPH0000003450000",
+                                        "EntityStatus": "AUTO",
+                                        "EntityType": "POLICY"
+                                    },
+                                    {
+                                        "CCoverage": "Final Respects",
+                                        "CIsCovSelected": "N",
+                                        "COptAnnualPremium": "20",
+                                        "COptCovCode": "PH-FINRES-COV",
+                                        "CPiCovOptTab": "1964",
+                                        "CRate": "20",
+                                        "CSublimit": "250",
+                                        "EntityReference": "PPMPH0000003450000",
+                                        "EntityStatus": "AUTO",
+                                        "EntityType": "POLICY"
+                                    },
+                                    {
+                                        "CCoverage": "Accident, Death & Dismemberment",
+                                        "CIsCovSelected": "N",
+                                        "COptAnnualPremium": "71.4",
+                                        "COptCovCode": "PH-ACCDEA-COV",
+                                        "CPiCovOptTab": "1964",
+                                        "CRate": "71.4",
+                                        "EntityReference": "PPMPH0000003450000",
+                                        "EntityStatus": "AUTO",
+                                        "EntityType": "POLICY"
+                                    }
+                                ]
+                            }
+                        ],
+                        "savingsByDiscPet": [
+                            {
+                                "CPiSavingsByDisc": "2247",
+                                "CTotApAllowedDisc": "234",
+                                "EntityReference": "PPMPH0000003450000",
+                                "EntityType": "POLICY",
+                                "IsCovManuallyRated": "N",
+                                "LobCode": "PH",
+                                "ProductCode": "PH",
+                                "RiskState": "NE",
+                                "RiskStateStatCode": "26",
+                                "WaivedPremium": "0",
+                                "PremiumAttributes": {
+                                    "AnnualPremium": "-23.4",
+                                    "BalanceToMinimum": "0",
+                                    "CommissionablePremium": "-1.98",
+                                    "FullTermPremium": "-1.98",
+                                    "TransactionPremium": "-1.98",
+                                    "TransPremNotSubToAud": "-1.98",
+                                    "WrittenPremium": "-1.98"
+                                },
+                                "savingsByDiscTabPet": [
+                                    {
+                                        "CAnnualSavings": "-11.7",
+                                        "CDiscount": "Multi-pet",
+                                        "CDiscountCode": "PM-MLTPET-DIS",
+                                        "CDiscRate": "-5",
+                                        "CPiSavingByDiscTab": "951",
+                                        "EntityReference": "PPMPH0000003450000",
+                                        "EntityStatus": "AUTO",
+                                        "EntityType": "POLICY"
+                                    },
+                                    {
+                                        "CAnnualSavings": "-11.7",
+                                        "CDiscount": "Multi-Policy",
+                                        "CDiscountCode": "PM-MLTIPO-DIS",
+                                        "CDiscRate": "-5",
+                                        "CPiSavingByDiscTab": "951",
+                                        "EntityReference": "PPMPH0000003450000",
+                                        "EntityStatus": "AUTO",
+                                        "EntityType": "POLICY"
+                                    },
+                                    {
+                                        "CDiscount": "Employer - Under 50 EEs",
+                                        "CDiscountCode": "PM-EMPBLW-DIS",
+                                        "CPiSavingByDiscTab": "951",
+                                        "EntityReference": "PPMPH0000003450000",
+                                        "EntityStatus": "AUTO",
+                                        "EntityType": "POLICY"
+                                    },
+                                    {
+                                        "CDiscount": "Employer - Over 50 EEs",
+                                        "CDiscountCode": "PM-EMPOVR-DIS",
+                                        "CPiSavingByDiscTab": "951",
+                                        "EntityReference": "PPMPH0000003450000",
+                                        "EntityStatus": "AUTO",
+                                        "EntityType": "POLICY"
+                                    },
+                                    {
+                                        "CDiscount": "Pet Friendly Employer",
+                                        "CDiscountCode": "PM-PETFRN-DIS",
+                                        "CPiSavingByDiscTab": "951",
+                                        "EntityReference": "PPMPH0000003450000",
+                                        "EntityStatus": "AUTO",
+                                        "EntityType": "POLICY"
+                                    },
+                                    {
+                                        "CDiscount": "Web Partner (First Year Only)",
+                                        "CDiscountCode": "PM-WEBPRT-DIS",
+                                        "CPiSavingByDiscTab": "951",
+                                        "EntityReference": "PPMPH0000003450000",
+                                        "EntityStatus": "AUTO",
+                                        "EntityType": "POLICY"
+                                    },
+                                    {
+                                        "CDiscount": "Strategic Partner",
+                                        "CDiscountCode": "PM-STRPRT-DIS",
+                                        "CPiSavingByDiscTab": "951",
+                                        "EntityReference": "PPMPH0000003450000",
+                                        "EntityStatus": "AUTO",
+                                        "EntityType": "POLICY"
+                                    },
+                                    {
+                                        "CDiscount": "Affinity Group",
+                                        "CDiscountCode": "PM-AFFINT-DIS",
+                                        "CPiSavingByDiscTab": "951",
+                                        "EntityReference": "PPMPH0000003450000",
+                                        "EntityStatus": "AUTO",
+                                        "EntityType": "POLICY"
+                                    },
+                                    {
+                                        "CDiscount": "Service Dog",
+                                        "CDiscountCode": "PM-SERDOG-DIS",
+                                        "CPiSavingByDiscTab": "951",
+                                        "EntityReference": "PPMPH0000003450000",
+                                        "EntityStatus": "AUTO",
+                                        "EntityType": "POLICY"
+                                    },
+                                    {
+                                        "CDiscount": "Military",
+                                        "CDiscountCode": "PM-MILTRY-DIS",
+                                        "CPiSavingByDiscTab": "951",
+                                        "EntityReference": "PPMPH0000003450000",
+                                        "EntityStatus": "AUTO",
+                                        "EntityType": "POLICY"
+                                    }
+                                ],
+                                "savingsByDiscRatePet": [
+                                    {
+                                        "CCoverage": "Multi-pet",
+                                        "CCoverageCode": "PM-MLTPET-DIS",
+                                        "CPiSaviByDiscRate": "951",
+                                        "CRatingFormula": "Multi-pet",
+                                        "CRatingFunction": " K_PH_UTILITIES.F_CALC_PM_SAV_DISC_COV",
+                                        "CSaviByDiscPrem": "-11.7",
+                                        "CSeq": "5000",
+                                        "EntityReference": "PPMPH0000003450000",
+                                        "EntityStatus": "AUTO",
+                                        "EntityType": "POLICY",
+                                        "IsCovManuallyRated": "N",
+                                        "LobCode": "PH",
+                                        "ProductCode": "PH",
+                                        "RiskState": "NE",
+                                        "RiskStateStatCode": "26",
+                                        "WaivedPremium": "0",
+                                        "PremiumAttributes": {
+                                            "AnnualPremium": "-11.7",
+                                            "BalanceToMinimum": "0",
+                                            "CommissionablePremium": "-0.99",
+                                            "FullTermPremium": "-0.99",
+                                            "IsSubToFullyCharge": "N",
+                                            "IsSubToFullyEarn": "N",
+                                            "TransactionPremium": "-0.99",
+                                            "TransPremNotSubToAud": "-0.99",
+                                            "WrittenPremium": "-0.99"
+                                        }
+                                    },
+                                    {
+                                        "CCoverage": "Multi-Policy",
+                                        "CCoverageCode": "PM-MLTIPO-DIS",
+                                        "CPiSaviByDiscRate": "951",
+                                        "CRatingFormula": "Multi-Policy",
+                                        "CRatingFunction": "K_PH_UTILITIES.F_CALC_PM_SAV_DISC_COV",
+                                        "CSaviByDiscPrem": "-11.7",
+                                        "CSeq": "5100",
+                                        "EntityReference": "PPMPH0000003450000",
+                                        "EntityStatus": "AUTO",
+                                        "EntityType": "POLICY",
+                                        "IsCovManuallyRated": "N",
+                                        "LobCode": "PH",
+                                        "ProductCode": "PH",
+                                        "RiskState": "NE",
+                                        "RiskStateStatCode": "26",
+                                        "WaivedPremium": "0",
+                                        "PremiumAttributes": {
+                                            "AnnualPremium": "-11.7",
+                                            "BalanceToMinimum": "0",
+                                            "CommissionablePremium": "-0.99",
+                                            "FullTermPremium": "-0.99",
+                                            "IsSubToFullyCharge": "N",
+                                            "IsSubToFullyEarn": "N",
+                                            "TransactionPremium": "-0.99",
+                                            "TransPremNotSubToAud": "-0.99",
+                                            "WrittenPremium": "-0.99"
+                                        }
+                                    }
+                                ]
+                            }
+                        ],
+                        "DiscountOffset": [
+                            {
+                                "CDiscountOffset": "2247",
+                                "EntityReference": "PPMPH0000003450000",
+                                "EntityType": "POLICY",
+                                "IsCovManuallyRated": "N",
+                                "LobCode": "PH",
+                                "ProductCode": "PH",
+                                "RiskState": "NE",
+                                "RiskStateStatCode": "26",
+                                "WaivedPremium": "0",
+                                "PremiumAttributes": {
+                                    "AnnualPremium": "23.4",
+                                    "BalanceToMinimum": "0",
+                                    "CommissionablePremium": "1.99",
+                                    "FullTermPremium": "1.99",
+                                    "TransactionPremium": "1.99",
+                                    "TransPremNotSubToAud": "1.99",
+                                    "WrittenPremium": "1.99"
+                                },
+                                "PetDiscountOffset": [
+                                    {
+                                        "CAnnualOffsetPremium": "23.4",
+                                        "CAnnualSaveByDiscTot": "-23.4",
+                                        "CCoverage": "Discount Offset",
+                                        "CCoverageCode": "PH-DISC-OFFSET",
+                                        "CCoverageName": "Discount Offset",
+                                        "CPetDiscountOffset": "423",
+                                        "CRate": "-1",
+                                        "EntityReference": "PPMPH0000003450000",
+                                        "EntityStatus": "AUTO",
+                                        "EntityType": "POLICY"
+                                    }
+                                ],
+                                "DiscOffsetCovRating": [
+                                    {
+                                        "CAnnualOffsetPremium": "23.4",
+                                        "CCoverage": "Discount Offset",
+                                        "CCoverageCode": "PH-DISC-OFFSET",
+                                        "CDisOfsetCovRatng": "423",
+                                        "CRatingFormula": "Discount Offset",
+                                        "CRatingFunction": " K_PH_UTILITIES.F_CALC_PM_DISC_OFFSET_COV",
+                                        "CSeq": "6000",
+                                        "EntityReference": "PPMPH0000003450000",
+                                        "EntityStatus": "AUTO",
+                                        "EntityType": "POLICY",
+                                        "IsCovManuallyRated": "N",
+                                        "LobCode": "PH",
+                                        "ProductCode": "PH",
+                                        "RiskState": "NE",
+                                        "RiskStateStatCode": "26",
+                                        "WaivedPremium": "0",
+                                        "PremiumAttributes": {
+                                            "AnnualPremium": "23.4",
+                                            "BalanceToMinimum": "0",
+                                            "CommissionablePremium": "1.99",
+                                            "FullTermPremium": "1.99",
+                                            "IsSubToFullyCharge": "N",
+                                            "IsSubToFullyEarn": "N",
+                                            "TransactionPremium": "1.99",
+                                            "TransPremNotSubToAud": "1.99",
+                                            "WrittenPremium": "1.99"
+                                        }
+                                    }
+                                ]
+                            }
+                        ],
+                        "DiscountPerCoverage": [
+                            {
+                                "CDiscountPerCoverage": "2247",
+                                "EntityReference": "PPMPH0000003450000",
+                                "EntityType": "POLICY",
+                                "IsCovManuallyRated": "N",
+                                "LobCode": "PH",
+                                "ProductCode": "PH",
+                                "RiskState": "NE",
+                                "RiskStateStatCode": "26",
+                                "WaivedPremium": "0",
+                                "PremiumAttributes": {
+                                    "AnnualPremium": "-23.4",
+                                    "BalanceToMinimum": "0",
+                                    "CommissionablePremium": "-1.99",
+                                    "FullTermPremium": "-1.99",
+                                    "TransactionPremium": "-1.99",
+                                    "TransPremNotSubToAud": "-1.99",
+                                    "WrittenPremium": "-1.99"
+                                },
+                                "PetDiscountCoverage": [
+                                    {
+                                        "CAnnualDiscountPremium": "-23.4",
+                                        "CAnnualPremium": "234",
+                                        "CCoverage": "Pet Plan Cov",
+                                        "CCoverageCode": "PH-PET-PLN-DIS",
+                                        "CDiscountFactor": "-0.1",
+                                        "CDisplayCoverage": "Pet Plan",
+                                        "CFinalAnnDisPremium": "-23.4",
+                                        "CPetDiscountCov": "423",
+                                        "EntityReference": "PPMPH0000003450000",
+                                        "EntityStatus": "AUTO",
+                                        "EntityType": "POLICY"
+                                    },
+                                    {
+                                        "CAnnualDiscountPremium": "-4.68",
+                                        "CAnnualPremium": "46.8",
+                                        "CCoverage": "Exam Fees Cov",
+                                        "CCoverageCode": "PH-EX-FEES-DIS",
+                                        "CDiscountFactor": "-0.1",
+                                        "CDisplayCoverage": "Exam Fees",
+                                        "CPetDiscountCov": "423",
+                                        "CSelect": "N",
+                                        "EntityReference": "PPMPH0000003450000",
+                                        "EntityStatus": "AUTO",
+                                        "EntityType": "POLICY"
+                                    },
+                                    {
+                                        "CAnnualDiscountPremium": "-4.68",
+                                        "CAnnualPremium": "46.8",
+                                        "CCoverage": "Take Home Prescriptions Cov",
+                                        "CCoverageCode": "PH-TK-HM-P-DIS",
+                                        "CDiscountFactor": "-0.1",
+                                        "CDisplayCoverage": "Take Home Prescriptions",
+                                        "CPetDiscountCov": "423",
+                                        "CSelect": "N",
+                                        "EntityReference": "PPMPH0000003450000",
+                                        "EntityStatus": "AUTO",
+                                        "EntityType": "POLICY"
+                                    },
+                                    {
+                                        "CAnnualDiscountPremium": "-0.82",
+                                        "CAnnualPremium": "8.17",
+                                        "CCoverage": "Rehab/PT Cov",
+                                        "CCoverageCode": "PH-REH-PT-DIS",
+                                        "CDiscountFactor": "-0.1",
+                                        "CDisplayCoverage": "Rehab/PT",
+                                        "CPetDiscountCov": "423",
+                                        "CSelect": "N",
+                                        "EntityReference": "PPMPH0000003450000",
+                                        "EntityStatus": "AUTO",
+                                        "EntityType": "POLICY"
+                                    },
+                                    {
+                                        "CAnnualDiscountPremium": "-0.4",
+                                        "CAnnualPremium": "4.02",
+                                        "CCoverage": "Holistic/Alternative Cov",
+                                        "CCoverageCode": "PH-HOL-ALT-DIS",
+                                        "CDiscountFactor": "-0.1",
+                                        "CDisplayCoverage": "Holistic/Alternative",
+                                        "CPetDiscountCov": "423",
+                                        "CSelect": "N",
+                                        "EntityReference": "PPMPH0000003450000",
+                                        "EntityStatus": "AUTO",
+                                        "EntityType": "POLICY"
+                                    },
+                                    {
+                                        "CAnnualDiscountPremium": "-0.68",
+                                        "CAnnualPremium": "6.79",
+                                        "CCoverage": "Pre-Ex Cov",
+                                        "CCoverageCode": "PH-PRE-EX-DIS",
+                                        "CDiscountFactor": "-0.1",
+                                        "CDisplayCoverage": "Pre-Ex",
+                                        "CPetDiscountCov": "423",
+                                        "CSelect": "N",
+                                        "EntityReference": "PPMPH0000003450000",
+                                        "EntityStatus": "AUTO",
+                                        "EntityType": "POLICY"
+                                    },
+                                    {
+                                        "CAnnualDiscountPremium": "-0.77",
+                                        "CAnnualPremium": "7.72",
+                                        "CCoverage": "Diminishing Deductible Cov",
+                                        "CCoverageCode": "PH-DIM-DED-DIS",
+                                        "CDiscountFactor": "-0.1",
+                                        "CDisplayCoverage": "Diminishing Deductible",
+                                        "CPetDiscountCov": "423",
+                                        "CSelect": "N",
+                                        "EntityReference": "PPMPH0000003450000",
+                                        "EntityStatus": "AUTO",
+                                        "EntityType": "POLICY"
+                                    }
+                                ],
+                                "DiscountCoverageRating": [
+                                    {
+                                        "CCoverage": "Pet Plan Cov",
+                                        "CCoverageCode": "PH-PET-PLN-DIS",
+                                        "CDiscountCovRating": "423",
+                                        "CFinalAnnDisPremium": "-23.4",
+                                        "CRatingFormula": "Pet Plan Cov",
+                                        "CRatingFunction": " K_PH_UTILITIES.F_CALC_PM_DIS_PER_COV",
+                                        "CSeq": "4000",
+                                        "EntityReference": "PPMPH0000003450000",
+                                        "EntityStatus": "AUTO",
+                                        "EntityType": "POLICY",
+                                        "IsCovManuallyRated": "N",
+                                        "LobCode": "PH",
+                                        "ProductCode": "PH",
+                                        "RiskState": "NE",
+                                        "RiskStateStatCode": "26",
+                                        "WaivedPremium": "0",
+                                        "PremiumAttributes": {
+                                            "AnnualPremium": "-23.4",
+                                            "BalanceToMinimum": "0",
+                                            "CommissionablePremium": "-1.99",
+                                            "FullTermPremium": "-1.99",
+                                            "IsSubToFullyCharge": "N",
+                                            "IsSubToFullyEarn": "N",
+                                            "TransactionPremium": "-1.99",
+                                            "TransPremNotSubToAud": "-1.99",
+                                            "WrittenPremium": "-1.99"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "PolicyStatus": {
+        "status": "In Force",
+        "entityType": "POLICY",
+        "entityReference": "PPMPH0000003450000",
+        "statusTimestamp": "2022-04-01T08:47:06"
+    }
+}

@@ -1,0 +1,15 @@
+import java.util.function.Supplier;
+
+public class SupplierInterfaceEx1 {
+
+	public static void main(String[] args) {
+		Supplier<String> name1 = new Supplier() {
+			@Override
+			public String get() {
+				return new String("David");
+			}
+		};
+		
+		System.out.println(name1.get());
+	}
+}
