@@ -1,6 +1,0 @@
-package medium;
-
-public class Pkg {
-	private String destination;
-	private int timeToDestination;
-}

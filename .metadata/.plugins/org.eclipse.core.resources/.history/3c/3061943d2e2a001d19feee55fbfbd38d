@@ -1,4 +1,0 @@
-public class MobilePhone {
-	
-	private static ArrayList<Contact> = new ArrayList<Contact>();
-}

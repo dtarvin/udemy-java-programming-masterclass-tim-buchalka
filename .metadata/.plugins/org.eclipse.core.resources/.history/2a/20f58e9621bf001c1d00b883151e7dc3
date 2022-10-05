@@ -1,6 +1,0 @@
-
-public class SendByRail implements PackageStrategy {
-	public void processPackage(String pkg) {
-		
-	}
-}
